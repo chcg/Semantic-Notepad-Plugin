@@ -1,0 +1,11 @@
+{
+  "folder-name": "SemanticProgrammingLanguage",
+  "display-name": "Semantic Programming Language",
+  "version": "1.0.0",
+  "npp-compatible-versions": "[8.4.7,]",
+  "id": "<SHA256_OF_RELEASE_ZIP>",
+  "repository": "https://github.com/SemanticProgrammingLanguage/Semantic-Programming-Language-for-NotepadPlusPlus/releases/download/v1.0.0/SemanticProgrammingLanguage-1.0.0-x64.zip",
+  "description": "Semantic Programming Language integration for Notepad++. Installs and updates syntax highlighting for .se and .sp files and provides quick links to the Semantic website and GitHub.",
+  "author": "Tarek Wasfy",
+  "homepage": "https://www.semantic-programming-language.com/"
+}
